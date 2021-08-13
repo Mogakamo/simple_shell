@@ -1,7 +1,13 @@
 <html>
   <body>
     <h1 align="center">Simple shell</h1>
-    <p>Run the script in the ``` scripts/generate-authors.sh ``` to update the Authors of the repository.</p>
+    <p>Run the script below to update the AUTHORS of the repository.
+
+```
+script/generate-authors.sh
+```
+&copy;2021 #ALX
+</p>
   </body>
  </html>
 
