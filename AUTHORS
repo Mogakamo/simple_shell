@@ -1,4 +1,6 @@
 #This file lists all the individuals having contributed to the repository
-# To see how to update this file visit scripts/generate-authors.sh
+#To update this list run the script 'generate-authors.sh' in the scripts/ directory
+#Don't hard code your details here
+
 
 Mogakamo <mogaka.amo254@gmail.com
