@@ -4,7 +4,7 @@
  * main - Entry point
  * Return: 0 Success
  */
-int main()
+int main(void)
 {
 	printf("Learning to create a simple shell courtesy of ALX");
 	return (0);
