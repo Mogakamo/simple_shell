@@ -10,6 +10,10 @@
 #include<readline/readline.h>
 #include<readline/history.h>
 
+
+/* putchar */
+int _putchar(char c);
+
 /* handle built ins */
 int checker(char **cmd, char *buf);
 void prompt_user(void);
