@@ -22,7 +22,7 @@
 
 <p>
  <h3>Authors</h3>
-  Amos Nyaburi
+  Amos Nyaburi<br/>
   Frehiwot Haile 
 </p>
 &copy;2021 #ALX
